@@ -1,3 +1,3 @@
 # FastRoll block import tests PVM traces
 
-- [Test vectors](https://github.com/w3f/jamtestvectors/tree/d039d17f1fa421412128c3c3264a766427e9b927/traces)
+- [Test vectors](https://github.com/davxy/jam-test-vectors/tree/07f13eddf82066dcf239106399bf92338700b882/traces)
